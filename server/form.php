@@ -85,6 +85,7 @@ EOD;
                 <input type="radio" name="didcite" id="all" value="all" autocomplete="off"> <label for="all">All</label><br>
                 <input type="radio" name="didcite" id="some" value="some" autocomplete="off"> <label for="some">Some</label><br>
                 <input type="radio" name="didcite" id="footnote" value="footnote" autocomplete="off"> <label for="footnote">Footnote</label><br>
+                <input type="radio" name="didcite" id="invalid" value="invalid" autocomplete="off"> <label for="invalid">Invalid</label><br>
                 <input type="radio" name="didcite" id="none" value="none" autocomplete="off"> <label for="none">None</label>
             </p>
             </div>
