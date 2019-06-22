@@ -42,6 +42,7 @@ $init = array(
                 margin-left: 20px;
             }
         </style>
+	<meta name="robots" content="noindex,nofollow">
     </head>
     <body>
 <?php

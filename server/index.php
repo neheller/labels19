@@ -34,6 +34,7 @@ if (isset($_GET["otherkeywords"]) && $_GET["otherkeywords"] != "") {
                 color: grey;
             }
         </style>
+	<meta name="robots" content="noindex,nofollow">
     </head>
     <body>
         <ol>
