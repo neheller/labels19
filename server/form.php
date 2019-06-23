@@ -13,19 +13,26 @@ foreach ($benchmarks as $bmk) {
     array_push($dataopts, $bmk);
 }
 $keywords = json_decode(file_get_contents("keywords.json"));
-// TODO get prev vals if they exist
-// Otherwise set defaults
-// http://scrape.pl/handler.php?
-//citations=1
-//datause=on
-//whichdata=other
-//whichdata=LiTS
-//otherdata=asd
-//didcite=none
-//didpublish=withpub
-$init = array(
-    "citations" => 0
-);
+if file_exists("submissions/" . $ind . ".php") {
+    $init = json_decode(file_get_contents("submissions/" . $ind . ".php"));
+}
+else {
+    $init = array(
+        "citations" => "",
+        "datause" => false,
+        "openaccess" => false,
+        "whichdata" => [""],
+        "otherdata" => "",
+        "keywords" => [""],
+        "otherkeywords" => "",
+        "didcite" => "",
+        "didpublish" => "",
+        "code" => false
+    );
+}
+$init->datause = isset($init->datause) && $init->datause;
+$init->openaccess = isset($init->openaccess) && $init->openaccess;
+$init->code = isset($init->code) && $init->code;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -52,9 +59,9 @@ echo <<<EOD
 EOD;
 ?>
         <form action="/" method="get">
-            <input type="text" name="ind" value=<?php echo $ind; ?> style="display:none;"/>
-            <p><input id="citations" name="citations" type="number" maxlength="6" size="6" autocomplete="off"/> <label for="citations"> Citations</label></p>
-            <p><input id="datause" name="datause" type="checkbox" autocomplete="off"/> <label for="datause"> This paper used visual data</label></p>
+            <input type="text" name="ind" value=<?php echo $ind; ?> style="display:none;" value="<?php echo $init->citations;?>"/>
+            <p><input id="citations" name="citations" type="number" maxlength="6" size="6" autocomplete="off" value="<?php echo $init->citations;?>"/> <label for="citations"> Citations</label></p>
+            <p><input id="datause" name="datause" type="checkbox" autocomplete="off" <? if ($init->datause) {echo 'selected="selected"';} ?>/> <label for="datause"> This paper used visual data</label></p>
             <p>If no, submit now</p>
             <p><input id="openaccess" name="openaccess" type="checkbox" autocomplete="off"/> <label for="openaccess"> An open access version is available</label></p>
             <p>What data did they use?</p>
@@ -68,7 +75,7 @@ EOD;
 ?>
             </select><br>
             <p>If other<br>
-            <input id="otherdata" name="otherdata" type="text" autocomplete="off"/> <label for="otherdata"> Other benchmarks (csv)</label></p>
+            <input id="otherdata" name="otherdata" type="text" autocomplete="off" value="<?php echo $init->citations;?>"/> <label for="otherdata"> Other benchmarks (csv)</label></p>
             <select id="keywords" name="keywords[]" autocomplete="off" multiple>
 <?php
 foreach ($keywords as $keyword) {
@@ -79,7 +86,7 @@ EOD;
 ?>
             </select><br>
             <p>If other<br>
-            <input id="otherkeywords" name="otherkeywords" type="text" autocomplete="off"/> <label for="otherkeywords"> Other keywords (csv)</label></p>
+            <input id="otherkeywords" name="otherkeywords" type="text" autocomplete="off" value="<?php echo $init->citations;?>"/> <label for="otherkeywords"> Other keywords (csv)</label></p>
 
             <div class="ib">
             <p>If benchmarks</p>
