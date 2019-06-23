@@ -1,6 +1,8 @@
 <?php
+$ind = 0;
 if (isset($_GET["ind"])) {
     file_put_contents("submissions/" . $_GET["ind"] . ".json", json_encode($_GET));
+    $ind = $_GET["ind"];
 }
 $benchmarks = json_decode(file_get_contents("benchmarks.json"));
 if (isset($_GET["otherdata"]) && $_GET["otherdata"] != "") {
@@ -8,7 +10,7 @@ if (isset($_GET["otherdata"]) && $_GET["otherdata"] != "") {
     foreach ($obks as $obk) {
         if (!in_array(trim($obk), $benchmarks)) {
             array_push($benchmarks, trim($obk));
-        }    
+        }
     }
     file_put_contents("benchmarks.json", json_encode($benchmarks));
 }
@@ -45,13 +47,20 @@ for ($i = 0; $i < count($order); $i++) {
     if (file_exists("submissions/$i.json")) {
         $done = "done";
     }
-    echo '<li class="' . $done . '">';
+    echo '<li id="ind' . ($i+1) . '" class="' . $done . '">';
     echo '<span class="year">' . $order[$i]->year . '</span> ';
     echo '<a href="/form.php?paper=' . $i . '" class="title">' . $order[$i]->title . '</a> ';
     echo '<span class="authors">' . $order[$i]->authors . '</span> ';
-    echo "</li>";
+    echo "</li>\n";
 }
 ?>
         </ol>
+        <script>
+        window.onload = function () {
+            var elmnt = document.getElementById("ind<?php echo $ind+1; ?>").scrollIntoView();
+            //window.scrollTo(0,elmnt.scrollTop);
+            //console.log(elmnt.scrollTop, elmnt.innerHTML);
+        };
+        </script>
     </body>
 </html>
