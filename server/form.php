@@ -56,6 +56,7 @@ EOD;
             <p><input id="citations" name="citations" type="number" maxlength="6" size="6" autocomplete="off"/> <label for="citations"> Citations</label></p>
             <p><input id="datause" name="datause" type="checkbox" autocomplete="off"/> <label for="datause"> This paper used visual data</label></p>
             <p>If no, submit now</p>
+            <p><input id="openaccess" name="openaccess" type="checkbox" autocomplete="off"/> <label for="openaccess"> An open access version is available</label></p>
             <p>What data did they use?</p>
             <select id="whichdata" name="whichdata[]" autocomplete="off" multiple>
 <?php
