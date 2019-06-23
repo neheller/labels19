@@ -31,9 +31,9 @@ else {
         "code" => false
     );
 }
-$init->datause = isset($init->datause) && $init->datause;
-$init->openaccess = isset($init->openaccess) && $init->openaccess;
-$init->code = isset($init->code) && $init->code;
+$init->datause = isset($init->datause) && $init->datause == "on";
+$init->openaccess = isset($init->openaccess) && $init->openaccess == "on";
+$init->code = isset($init->code) && $init->code == "on";
 
 ?>
 <!DOCTYPE html>
@@ -87,35 +87,41 @@ EOD;
             <select id="keywords" name="keywords[]" autocomplete="off" multiple>
 <?php
 foreach ($keywords as $keyword) {
+    if (in_array($keyword, $init->keywords)) {
+        $seld = 'selected="selected"';
+    }
+    else {
+        $seld = "";
+    }
     echo <<<EOD
-                <option value="$keyword">$keyword</option>
+                <option value="$keyword" $seld>$keyword</option>
 EOD;
 }
 ?>
             </select><br>
             <p>If other<br>
-            <input id="otherkeywords" name="otherkeywords" type="text" autocomplete="off" value="<?php echo $init->citations;?>"/> <label for="otherkeywords"> Other keywords (csv)</label></p>
+            <input id="otherkeywords" name="otherkeywords" type="text" autocomplete="off" value="<?php echo $init->otherkeywords;?>"/> <label for="otherkeywords"> Other keywords (csv)</label></p>
 
             <div class="ib">
             <p>If benchmarks</p>
             <p>Did they cite the benchmarks?<br>
-                <input type="radio" name="didcite" id="all" value="all" autocomplete="off"> <label for="all">All</label><br>
-                <input type="radio" name="didcite" id="some" value="some" autocomplete="off"> <label for="some">Some</label><br>
-                <input type="radio" name="didcite" id="footnote" value="footnote" autocomplete="off"> <label for="footnote">Footnote</label><br>
-                <input type="radio" name="didcite" id="invalid" value="invalid" autocomplete="off"> <label for="invalid">Invalid</label><br>
-                <input type="radio" name="didcite" id="none" value="none" autocomplete="off"> <label for="none">None</label>
+                <input type="radio" name="didcite" id="all" value="all" autocomplete="off" <?php if ($init->didcite == "all") {echo "checked";} ?>> <label for="all">All</label><br>
+                <input type="radio" name="didcite" id="some" value="some" autocomplete="off" <?php if ($init->didcite == "some") {echo "checked";} ?>> <label for="some">Some</label><br>
+                <input type="radio" name="didcite" id="footnote" value="footnote" autocomplete="off" <?php if ($init->didcite == "footnote") {echo "checked";} ?>> <label for="footnote">Footnote</label><br>
+                <input type="radio" name="didcite" id="invalid" value="invalid" autocomplete="off" <?php if ($init->didcite == "invalid") {echo "checked";} ?>> <label for="invalid">Invalid</label><br>
+                <input type="radio" name="didcite" id="none" value="none" autocomplete="off" <?php if ($init->didcite == "none") {echo "checked";} ?>> <label for="none">None</label>
             </p>
             </div>
             <div class="ib">
             <p>If private</p>
             <p>Did they publish the data?<br>
-                <input type="radio" name="didpublish" id="withpub" value="withpub" autocomplete="off"> <label for="withpub">With publication</label><br>
-                <input type="radio" name="didpublish" id="promise" value="promise" autocomplete="off"> <label for="promise">Promised to</label><br>
-                <input type="radio" name="didpublish" id="no" value="no" autocomplete="off"> <label for="no">No</label>
+                <input type="radio" name="didpublish" id="withpub" value="withpub" autocomplete="off" <?php if ($init->didpublish == "withpub") {echo "checked";} ?>> <label for="withpub">With publication</label><br>
+                <input type="radio" name="didpublish" id="promise" value="promise" autocomplete="off" <?php if ($init->didpublish == "promise") {echo "checked";} ?>> <label for="promise">Promised to</label><br>
+                <input type="radio" name="didpublish" id="no" value="no" autocomplete="off" <?php if ($init->didpublish == "no") {echo "checked";} ?>> <label for="no">No</label>
             </p>
             </div>
 
-            <p><input id="code" name="code" type="checkbox" autocomplete="off"/> <label for="code"> They released their code</label></p>
+            <p><input id="code" name="code" type="checkbox" autocomplete="off" <?php if ($init->code) {echo "checked";} ?>/> <label for="code"> They released their code</label></p>
 
             <p><input id="submit" type="submit" /></p>
         </form>
