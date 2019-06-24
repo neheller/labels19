@@ -1,0 +1,66 @@
+ind,datause,preprint,personal,code,keywords,whichdata,didpublish,didcite,citations
+0,,,,,[],[],,,3
+1,,,,,['simulation'],[],,,0
+2,on,,on,,['outlier detection'],"['custom simulated', ' ADNI']",,all,2
+3,,,,,['reconstruction'],[],,,
+4,on,on,,,"['segmentation', 'classification']",['custom'],no,,4
+5,on,,on,,['biomarkers'],['ADNI'],,none,7
+6,on,,on,,['segmentation'],['ABIDE'],,all,4
+7,,,,,['axon measurement'],[],,,2
+8,on,,,,"['classification', 'clustering']",['custom'],no,,3
+9,on,on,,,['segmentation'],['CTC'],,all,2
+10,,,on,,['clustering'],"['COIL-20', ' CMU-PIE']",,none,10
+11,on,,,,"['segmentation', 'porcine']",['custom'],no,,11
+12,on,,on,,['density estimation'],"['custom', 'custom simulated']",no,,0
+13,,,,,['classification'],"['BreaKHis', ' IICBU']",,all,8
+14,on,on,,,"['segmentation', 'uq']",['BraTS17'],,all,2
+15,on,,on,,['classification'],['custom'],no,,3
+16,on,,on,,['connectivity'],['HCP'],,all,2
+17,on,,,on,['segmentation'],"['custom', 'custom simulated']",no,,4
+18,on,,on,,['reconstruction'],['custom'],no,,7
+19,on,,,,['object detection'],['custom'],no,,0
+20,on,,on,on,"['segmentation', 'porcine']",['custom'],no,,10
+21,on,,,,['arrangement'],['custom'],no,,2
+22,on,,,,['classification'],['custom'],no,,10
+23,on,,,on,['registration'],['POPI'],,all,2
+24,on,,,,['classification'],"['TCGA', ' NLST']",,all,2
+25,,,,,['image guidance'],[],,,21
+26,on,,on,on,['segmentation'],"['IVCM', ' BF2D', ' VC6']",,all,18
+27,on,,on,on,['segmentation'],"['UCI-QSAR-biodegradation', ' UCI-Musk', ' UCI-Cardiotocography', ' UCI-Wine']",,footnote,7
+28,,,on,,['registration'],[],,,2
+29,on,on,,,['segmentation'],['custom'],no,,3
+30,on,,on,,"['segmentation', 'interactive']",['custom'],no,,11
+31,on,,,,['segmentation'],['custom'],no,,9
+32,on,,on,on,['segmentation'],['VISCERAL'],,all,25
+33,on,,,,"['reconstruction', 'registration']",['custom'],no,,6
+34,on,on,,,['object detection'],['ADNI'],,footnote,0
+35,,,on,,['registration'],['OASIS'],,none,19
+36,on,,on,on,"['segmentation', 'pose estimation']",['custom'],withpub,,31
+37,,on,,on,['segmentation'],['custom'],no,,731
+38,on,,on,,['classification'],['custom'],no,,1
+39,on,,,,['diffusion'],['custom'],no,,0
+40,on,,on,,"['segmentation', 'denoising']",[],no,,19
+41,on,,on,on,"['clustering', 'diffusion']",['custom'],no,,6
+42,on,,on,,['segmentation'],"['custom', 'OASIS']",no,footnote,0
+43,on,,,,['classification'],['custom'],no,,0
+44,on,on,,,['diffusion'],['MyConnectome'],,footnote,1
+45,on,,on,,['diffusion'],['HCP'],,invalid,3
+46,on,,on,,['regression'],['custom'],no,,28
+47,on,,on,,['connectivity'],['HCP'],,all,4
+48,on,,,,['classification'],['custom'],no,,0
+49,on,,on,,['segmentation'],['Low Dose CT Challenge'],,none,6
+50,on,,on,,['segmentation'],['custom'],no,,9
+51,,,on,,[],[],,,12
+52,on,,on,,['object detection'],['Digital Hand Atlas'],,footnote,76
+53,on,,on,,['diffusion'],['HCP'],,footnote,0
+54,on,on,,on,['segmentation'],"['Montgomery X-ray', ' EndoVis15']",,some,2
+55,on,,on,,['segmentation'],['Vessel Tortuosity'],,all,12
+56,,,on,,['segmentation'],['custom'],no,,80
+57,,,on,,[],[],,,6
+58,,,,,[],[],,,5
+59,on,,on,,['reconstruction'],['custom'],no,,3
+60,on,,on,,['reconstruction'],['custom'],no,,4
+61,,,on,,[],[],,,7
+62,on,on,,on,['segmentation'],['cardio edges'],,all,45
+63,on,on,,,['object detection'],['LUNA16'],,all,54
+64,,,,,[],[],,,0
