@@ -1,66 +1,351 @@
-ind,datause,preprint,personal,code,keywords,whichdata,didpublish,didcite,citations
-0,,,,,[],[],,,3
-1,,,,,['simulation'],[],,,0
-2,on,,on,,['outlier detection'],"['custom simulated', ' ADNI']",,all,2
-3,,,,,['reconstruction'],[],,,
-4,on,on,,,"['segmentation', 'classification']",['custom'],no,,4
-5,on,,on,,['biomarkers'],['ADNI'],,none,7
-6,on,,on,,['segmentation'],['ABIDE'],,all,4
-7,,,,,['axon measurement'],[],,,2
-8,on,,,,"['classification', 'clustering']",['custom'],no,,3
-9,on,on,,,['segmentation'],['CTC'],,all,2
-10,,,on,,['clustering'],"['COIL-20', ' CMU-PIE']",,none,10
-11,on,,,,"['segmentation', 'porcine']",['custom'],no,,11
-12,on,,on,,['density estimation'],"['custom', 'custom simulated']",no,,0
-13,,,,,['classification'],"['BreaKHis', ' IICBU']",,all,8
-14,on,on,,,"['segmentation', 'uq']",['BraTS17'],,all,2
-15,on,,on,,['classification'],['custom'],no,,3
-16,on,,on,,['connectivity'],['HCP'],,all,2
-17,on,,,on,['segmentation'],"['custom', 'custom simulated']",no,,4
-18,on,,on,,['reconstruction'],['custom'],no,,7
-19,on,,,,['object detection'],['custom'],no,,0
-20,on,,on,on,"['segmentation', 'porcine']",['custom'],no,,10
-21,on,,,,['arrangement'],['custom'],no,,2
-22,on,,,,['classification'],['custom'],no,,10
-23,on,,,on,['registration'],['POPI'],,all,2
-24,on,,,,['classification'],"['TCGA', ' NLST']",,all,2
-25,,,,,['image guidance'],[],,,21
-26,on,,on,on,['segmentation'],"['IVCM', ' BF2D', ' VC6']",,all,18
-27,on,,on,on,['segmentation'],"['UCI-QSAR-biodegradation', ' UCI-Musk', ' UCI-Cardiotocography', ' UCI-Wine']",,footnote,7
-28,,,on,,['registration'],[],,,2
-29,on,on,,,['segmentation'],['custom'],no,,3
-30,on,,on,,"['segmentation', 'interactive']",['custom'],no,,11
-31,on,,,,['segmentation'],['custom'],no,,9
-32,on,,on,on,['segmentation'],['VISCERAL'],,all,25
-33,on,,,,"['reconstruction', 'registration']",['custom'],no,,6
-34,on,on,,,['object detection'],['ADNI'],,footnote,0
-35,,,on,,['registration'],['OASIS'],,none,19
-36,on,,on,on,"['segmentation', 'pose estimation']",['custom'],withpub,,31
-37,,on,,on,['segmentation'],['custom'],no,,731
-38,on,,on,,['classification'],['custom'],no,,1
-39,on,,,,['diffusion'],['custom'],no,,0
-40,on,,on,,"['segmentation', 'denoising']",[],no,,19
-41,on,,on,on,"['clustering', 'diffusion']",['custom'],no,,6
-42,on,,on,,['segmentation'],"['custom', 'OASIS']",no,footnote,0
-43,on,,,,['classification'],['custom'],no,,0
-44,on,on,,,['diffusion'],['MyConnectome'],,footnote,1
-45,on,,on,,['diffusion'],['HCP'],,invalid,3
-46,on,,on,,['regression'],['custom'],no,,28
-47,on,,on,,['connectivity'],['HCP'],,all,4
-48,on,,,,['classification'],['custom'],no,,0
-49,on,,on,,['segmentation'],['Low Dose CT Challenge'],,none,6
-50,on,,on,,['segmentation'],['custom'],no,,9
-51,,,on,,[],[],,,12
-52,on,,on,,['object detection'],['Digital Hand Atlas'],,footnote,76
-53,on,,on,,['diffusion'],['HCP'],,footnote,0
-54,on,on,,on,['segmentation'],"['Montgomery X-ray', ' EndoVis15']",,some,2
-55,on,,on,,['segmentation'],['Vessel Tortuosity'],,all,12
-56,,,on,,['segmentation'],['custom'],no,,80
-57,,,on,,[],[],,,6
-58,,,,,[],[],,,5
-59,on,,on,,['reconstruction'],['custom'],no,,3
-60,on,,on,,['reconstruction'],['custom'],no,,4
-61,,,on,,[],[],,,7
-62,on,on,,on,['segmentation'],['cardio edges'],,all,45
-63,on,on,,,['object detection'],['LUNA16'],,all,54
-64,,,,,[],[],,,0
+ind,year,datause,preprint,personal,code,keywords,whichdata,didpublish,didcite,citations
+0,2014,,,,,[],[],,,3
+1,2015,,,,,['simulation'],[],,,0
+2,2016,on,,on,,['outlier detection'],"['custom simulated', ' ADNI']",,all,2
+3,2017,,,,,['reconstruction'],[],,,
+4,2018,on,on,,,"['segmentation', 'classification']",['custom'],no,,4
+5,2014,on,,on,,['biomarkers'],['ADNI'],,none,7
+6,2015,on,,on,,['segmentation'],['ABIDE'],,all,4
+7,2016,,,,,['axon measurement'],[],,,2
+8,2017,on,,,,"['classification', 'clustering']",['custom'],no,,3
+9,2018,on,on,,,['segmentation'],['CTC'],,all,2
+10,2014,,,on,,['clustering'],"['COIL-20', ' CMU-PIE']",,none,10
+11,2015,on,,,,"['segmentation', 'porcine']",['custom'],no,,11
+12,2016,on,,on,,['density estimation'],"['custom', 'custom simulated']",no,,0
+13,2017,,,,,['classification'],"['BreaKHis', ' IICBU']",,all,8
+14,2018,on,on,,,"['segmentation', 'uq']",['BraTS17'],,all,2
+15,2014,on,,on,,['classification'],['custom'],no,,3
+16,2015,on,,on,,['connectivity'],['HCP'],,all,2
+17,2016,on,,,on,['segmentation'],"['custom', 'custom simulated']",no,,4
+18,2017,on,,on,,['reconstruction'],['custom'],no,,7
+19,2018,on,,,,['object detection'],['custom'],no,,0
+20,2014,on,,on,on,"['segmentation', 'porcine']",['custom'],no,,10
+21,2015,on,,,,['arrangement'],['custom'],no,,2
+22,2016,on,,,,['classification'],['custom'],no,,10
+23,2017,on,,,on,['registration'],['POPI'],,all,2
+24,2018,on,,,,['classification'],"['TCGA', ' NLST']",,all,2
+25,2014,,,,,['image guidance'],[],,,21
+26,2015,on,,on,on,['segmentation'],"['IVCM', ' BF2D', ' VC6']",,all,18
+27,2016,on,,on,on,['segmentation'],"['UCI-QSAR-biodegradation', ' UCI-Musk', ' UCI-Cardiotocography', ' UCI-Wine']",,footnote,7
+28,2017,,,on,,['registration'],[],,,2
+29,2018,on,on,,,['segmentation'],['custom'],no,,3
+30,2014,on,,on,,"['segmentation', 'interactive']",['custom'],no,,11
+31,2015,on,,,,['segmentation'],['custom'],no,,9
+32,2016,on,,on,on,['segmentation'],['VISCERAL'],,all,25
+33,2017,on,,,,"['reconstruction', 'registration']",['custom'],no,,6
+34,2018,on,on,,,['object detection'],['ADNI'],,footnote,0
+35,2014,,,on,,['registration'],['OASIS'],,none,19
+36,2015,on,,on,on,"['segmentation', 'pose estimation']",['custom'],withpub,,31
+37,2016,,on,,on,['segmentation'],['custom'],no,,731
+38,2017,on,,on,,['classification'],['custom'],no,,1
+39,2018,on,,,,['diffusion'],['custom'],no,,0
+40,2014,on,,on,,"['segmentation', 'denoising']",[],no,,19
+41,2015,on,,on,on,"['clustering', 'diffusion']",['custom'],no,,6
+42,2016,on,,on,,['segmentation'],"['custom', 'OASIS']",no,footnote,0
+43,2017,on,,,,['classification'],['custom'],no,,0
+44,2018,on,on,,,['diffusion'],['MyConnectome'],,footnote,1
+45,2014,on,,on,,['diffusion'],['HCP'],,invalid,3
+46,2015,on,,on,,['regression'],['custom'],no,,28
+47,2016,on,,on,,['connectivity'],['HCP'],,all,4
+48,2017,on,,,,['classification'],['custom'],no,,0
+49,2018,on,,on,,['segmentation'],['Low Dose CT Challenge'],,none,6
+50,2014,on,,on,,['segmentation'],['custom'],no,,9
+51,2015,,,on,,[],[],,,12
+52,2016,on,,on,,['object detection'],['Digital Hand Atlas'],,footnote,76
+53,2017,on,,on,,['diffusion'],['HCP'],,footnote,0
+54,2018,on,on,,on,['segmentation'],"['Montgomery X-ray', ' EndoVis15']",,some,2
+55,2014,on,,on,,['segmentation'],['Vessel Tortuosity'],,all,12
+56,2015,,,on,,['segmentation'],['custom'],no,,80
+57,2016,,,on,,[],[],,,6
+58,2017,,,,,[],[],,,5
+59,2018,on,,on,,['reconstruction'],['custom'],no,,3
+60,2014,on,,on,,['reconstruction'],['custom'],no,,4
+61,2015,,,on,,[],[],,,7
+62,2016,on,on,,on,['segmentation'],['cardio edges'],,all,45
+63,2017,on,on,,,['object detection'],['LUNA16'],,all,54
+64,2018,,,,,[],[],,,0
+65,2014,on,,on,,['cbir'],['custom'],no,,
+66,2015,,,,,[],[],,,1
+67,2016,on,,on,,['reconstruction'],['custom'],no,,3
+68,2017,on,,on,,['segmentation'],['custom'],no,,4
+69,2018,on,,on,,['reconstruction'],['custom'],no,,1
+70,2014,,,,,[],[],,,5
+71,2015,on,,,,['segmentation'],['custom'],no,,14
+72,2016,on,,,,['registration'],['DIRL'],,all,3
+73,2017,on,,,,['denoising'],"['custom', 'STACOM 2014']",,all,0
+74,2018,,,,,[],[],,,1
+75,2014,,,on,,['classification'],['custom'],no,,4
+76,2015,,,,,[],[],,,1
+77,2016,,,,,['regression'],['ACHIKO-NC'],,all,1
+78,2017,on,on,,,['segmentation'],"['GlaS Challenge', ' ']",,all,56
+79,2018,,,,,[],[],,,
+80,2014,,,,,[],[],,,
+81,2015,on,on,,,['classification'],['custom'],no,,14
+82,2016,on,,on,,['segmentation'],['Automated Volumetry'],,all,7
+83,2017,on,,on,on,['pose estimation'],"['EndoVis15', 'RMIT']",,all,15
+84,2018,on,,on,,['classification'],['custom'],no,,1
+85,2014,on,,on,,['segmentation'],['custom'],no,,26
+86,2015,,,,,['segmentation'],['Microsoft SpineCT'],,some,15
+87,2016,on,,on,,"['biomarkers', 'integrative analysis']",['TCGA'],,footnote,
+88,2017,on,,,,['classification'],['custom'],no,,0
+89,2018,on,,on,,['clustering'],['HCP'],no,all,0
+90,2014,on,,on,,['simulation'],['custom simulated'],no,,4
+91,2015,on,,on,,['imputation'],['UCI-Cardiotocography'],,some,9
+92,2016,on,,on,,['classification'],['custom'],no,,5
+93,2017,on,,on,,"['segmentation', 'benchmarking']",['custom'],no,,1
+94,2018,on,on,,,"['segmentation', 'classification']","['custom', 'DDSM']",no,all,6
+95,2014,,,,,[],[],,,12
+96,2015,on,,on,,['statistical modelling'],"['custom', 'custom simulated']",no,,3
+97,2016,,,on,,['registration'],['custom'],no,,1
+98,2017,on,on,,on,['segmentation'],['custom'],no,,14
+99,2018,on,on,,,['segmentation'],['OASIS'],,all,2
+100,2014,on,,on,,['image guidance'],"['custom', 'custom simulated']",no,,9
+101,2015,on,,on,,['classification'],['custom'],no,,8
+102,2016,on,,on,on,['classification'],"['custom', 'MESSIDOR', ' DiabRetDB0', ' DiabRetDB1', ' STARE', ' UCSB Breast Cancer']",,all,11
+103,2017,,,,,[],[],,,1
+104,2018,on,,on,,['registration'],['custom'],no,,1
+105,2014,on,,on,,['segmentation'],['custom'],no,,15
+106,2015,,,,,['diffusion'],['HCP'],,none,3
+107,2016,on,,on,,['segmentation'],['custom'],no,,18
+108,2017,on,,on,,"['segmentation', 'registration']","['custom', 'phantom']",no,,10
+109,2018,on,on,,,['classification'],['custom'],no,,1
+110,2014,,,on,,['reconstruction'],['HCP'],,all,51
+111,2015,,,on,,['segmentation'],['custom'],no,,6
+112,2016,,,,,[],[],,,1
+113,2017,,on,,,['classification'],['custom'],no,,1
+114,2018,on,,on,,"['classification', 'interpretability']","['COPDGene', ' MNIST']",,all,0
+115,2014,on,,on,,"['segmentation', 'mapping']","['custom', 'custom simulated']",no,,10
+116,2015,on,,on,,[],"['Stanford 3D Fullysampled Knees', ' custom']",no,all,19
+117,2016,on,,on,,['connectivity'],['MCIC'],,all,0
+118,2017,on,,on,,['segmentation'],['LIDC-IDRI'],,all,25
+119,2018,on,,on,,['image guidance'],"['custom', 'custom']",no,,0
+120,2014,,,,,[],[],,,7
+121,2015,,,,,[],[],,,1
+122,2016,on,,on,,['registration'],"['custom', 'custom']",no,,8
+123,2017,,,,,['image guidance'],"['custom', 'custom']",no,,1
+124,2018,on,on,,,['segmentation'],['ISBI'],,all,13
+125,2014,on,,on,,"['connectivity', 'diffusion']",['HCP'],,all,18
+126,2015,on,,on,,['classification'],['TCIA'],,all,13
+127,2016,on,,on,,['denoising'],"['custom', 'custom simulated']",no,,1
+128,2017,on,on,,,['segmentation'],['MSSEG'],,footnote,24
+129,2018,on,,,,"['simulation', 'diffusion']",['HCP'],,all,1
+130,2014,on,,on,,['segmentation'],"['custom', 'custom']",no,,6
+131,2015,,,,,[],[],,,1
+132,2016,on,,on,,['pose estimation'],['CLUST'],,all,6
+133,2017,on,,on,,['classification'],"['custom', 'custom']",no,,4
+134,2018,on,,on,,['segmentation'],"['COMPAQ', ' ECU']",,all,35
+135,2014,,,,,[],[],,,3
+136,2015,on,,on,,['segmentation'],['SD-OCT'],,all,8
+137,2016,on,,on,,['interactive'],"['custom', 'custom']",no,,3
+138,2017,on,,on,,['segmentation'],['COPDGene'],,none,3
+139,2018,on,,on,,"['segmentation', 'classification']",['BraTS17'],,all,0
+140,2014,on,,on,,['image guidance'],['custom simulated'],no,,2
+141,2015,on,,on,,['image guidance'],['custom simulated'],no,,1
+142,2016,on,,on,,['image guidance'],['custom simulated'],withpub,,5
+143,2017,on,,on,,['classification'],"['custom', 'custom']",no,,3
+144,2018,on,,on,,['connectivity'],['f100'],,all,0
+145,2014,on,,on,,['image guidance'],"['custom', 'custom']",no,,24
+146,2015,,,on,,"['segmentation', 'growth modelling']",['custom simulated'],no,,17
+147,2016,on,,,,['connectivity'],['HCP'],,all,5
+148,2017,on,,on,,['diffusion'],['HCP'],,all,2
+149,2018,,,,,[],"['custom simulated', 'WMMD']",no,all,1
+150,2014,on,,on,,['image guidance'],"['custom', 'custom']",no,invalid,21
+151,2015,on,,on,,['classification'],"['ICPR2012', ' ICIP2013']",,footnote,19
+152,2016,on,,on,,['classification'],"['custom', 'custom']",no,,14
+153,2017,on,,on,,['classification'],"['custom', 'custom']",no,,11
+154,2018,,,,,['classification'],['CAMELYON16'],,footnote,5
+155,2014,on,,on,,['denoising'],"['custom', 'custom']",no,,60
+156,2015,on,,on,,['classification'],"['ICPR12', ' ICIP13']",,none,10
+157,2016,,,,,['segmentation'],"['DRIVE', ' STARE', ' CHASE_DB1']",,all,101
+158,2017,on,,on,,['segmentation'],"['custom', 'custom']",no,,36
+159,2018,,,,,[],[],,,0
+160,2014,on,,on,,['simulation'],['custom simulated'],no,,4
+161,2015,,,on,,['diffusion'],"['custom', 'custom']",no,,94
+162,2016,on,,on,,['reconstruction'],['Data Science Bowl'],,all,7
+163,2017,,,,,[],[],,,2
+164,2018,on,,on,,['biomarkers'],"['custom', 'custom']",no,,0
+165,2014,,,on,,['simulation'],"['custom', 'custom']",no,,8
+166,2015,on,,on,,['registration'],"['custom', 'custom']",no,,
+167,2016,,,,,['registration'],"['custom', 'custom', 'DIR-Lab']",,all,4
+168,2017,,on,,,['diffusion'],"['custom', 'custom']",no,,9
+169,2018,,,,,['segmentation'],['ADNI'],,all,4
+170,2014,on,,on,,['reconstruction'],"['custom', 'custom']",no,,20
+171,2015,on,,on,,['segmentation'],"['custom', 'custom']",no,,9
+172,2016,on,,on,,['image guidance'],"['custom', 'custom']",no,,5
+173,2017,,,,,['reconstruction'],['FIB-SIM'],,all,15
+174,2018,on,,on,,['segmentation'],"['custom', 'custom']",no,,0
+175,2014,on,,on,on,['regression'],"['custom', 'custom']",no,,6
+176,2015,on,,on,,['connectivity'],['HCP'],,all,17
+177,2016,on,,,,['classification'],['LIDC-IDRI'],,all,26
+178,2017,,on,,,[],[],,,0
+179,2018,on,,on,,['classification'],['ProstateX Challenge'],,all,2
+180,2014,on,,on,,['classification'],"['custom', 'custom']",no,,3
+181,2015,on,,on,on,['reconstruction'],"['custom', 'custom']",withpub,,27
+182,2016,on,,on,,['classification'],"['custom', 'custom']",no,,7
+183,2017,on,,on,,['registration'],['custom'],no,,7
+184,2018,on,,on,,['classification'],['TCIA'],,all,0
+185,2014,on,,on,,['registration'],['custom'],no,,7
+186,2015,on,,on,,['pose estimation'],"['custom', 'DDVT']",no,all,25
+187,2016,on,on,,,['object detection'],['custom'],no,,2
+188,2017,on,,on,,['segmentation'],['custom'],no,,8
+189,2018,on,,on,,['atlas building'],['custom'],no,,0
+190,2014,on,,on,,"['segmentation', 'density estimation']",['custom'],no,,7
+191,2015,on,,on,,['registration'],['custom'],no,,6
+192,2016,on,,on,,['classification'],['custom'],no,,41
+193,2017,on,,on,,['segmentation'],['custom'],no,,1
+194,2018,on,,on,,['registration'],['custom'],no,,2
+195,2014,on,,on,,['segmentation'],['custom'],no,,18
+196,2015,on,,on,,['segmentation'],"['DDSM-BCRP', ' INbreast']",,all,70
+197,2016,on,,on,,['denoising'],['custom'],no,,1
+198,2017,on,,on,,['segmentation'],"['custom', 'NIH Pancreas']",no,all,22
+199,2018,on,,on,,['classification'],['CAMELYON16'],,all,4
+200,2014,on,,on,,['registration'],['LBPA40'],,all,8
+201,2015,on,,on,,['classification'],['CMU2008'],no,all,10
+202,2016,on,,on,,['regression'],['ADNI'],,footnote,5
+203,2017,on,on,,,['classification'],['custom'],no,,15
+204,2018,,,,,['registration'],['OASIS'],,all,3
+205,2014,on,,on,,['image guidance'],['custom'],no,,15
+206,2015,on,,on,,['biomarkers'],['custom'],no,,4
+207,2016,,,,on,['segmentation'],['MS Lesion Segmentation Challenge 2008'],,all,1
+208,2017,on,,on,,['connectivity'],['HCP'],,all,1
+209,2018,on,,on,,['segmentation'],['custom'],no,,0
+210,2014,on,,on,,['registration'],['COPDgene'],,all,2
+211,2015,on,,on,,['classification'],[],,footnote,7
+212,2016,on,,on,,['segmentation'],['MICCAI-SLiver07'],,all,116
+213,2017,on,,on,,['segmentation'],['custom'],no,,4
+214,2018,on,,on,,['segmentation'],['custom'],no,,0
+215,2014,on,,on,,['object detection'],"['custom', 'CVC-ColonDB']",no,all,24
+216,2015,on,,on,,['diffusion'],['custom'],no,,1
+217,2016,on,,on,,['segmentation'],['custom'],no,,6
+218,2017,on,,on,,['connectivity'],['custom'],no,,4
+219,2018,on,,on,,['classification'],"['custom', 'custom simulated']",no,,4
+220,2014,on,,on,,['statistical modelling'],['custom'],no,,40
+221,2015,on,,on,,['object detection'],['SiMES'],no,all,3
+222,2016,on,,on,,['connectivity'],['custom'],no,,15
+223,2017,on,,on,,['segmentation'],['RUN DMC'],no,all,55
+224,2018,on,,on,,['object detection'],['Microsoft SpineCT'],,all,4
+225,2014,on,,on,,['image guidance'],"['NIBIB', ' NIH']",,none,3
+226,2015,on,,on,on,[],['custom'],no,,18
+227,2016,,,,,['connectivity'],['HCP'],,none,9
+228,2017,on,,on,,['segmentation'],"['custom', 'Visible Korean Human']",no,all,2
+229,2018,on,,on,,['statistical modelling'],"[""EXACT'09""]",,all,3
+230,2014,on,,on,,['classification'],['custom'],no,,3
+231,2015,on,,on,,['connectivity'],['custom'],no,,0
+232,2016,on,,on,,['segmentation'],['Warwick-QU'],,all,67
+233,2017,on,,on,,['object detection'],['custom'],no,,11
+234,2018,,,,,[],[],,,0
+235,2014,on,,on,,['mapping'],"['ADNI', 'OASIS']",,none,9
+236,2015,on,,on,,['reconstruction'],['HCP'],,none,5
+237,2016,on,,on,,['classification'],['DIR-Lab'],,all,8
+238,2017,on,,on,,['registration'],['custom'],no,,54
+239,2018,on,,on,,['object detection'],"['DRIVE', 'IOSTAR']",,all,0
+240,2014,on,,on,,['classification'],['custom'],no,,21
+241,2015,on,,on,,['segmentation'],['OAI'],,all,15
+242,2016,on,,on,,['segmentation'],['custom'],no,,19
+243,2017,on,on,,,['classification'],['custom'],no,,4
+244,2018,on,,on,on,['connectivity'],['HCP'],,none,0
+245,2014,on,,on,,['object detection'],"['CHO', ' L929', ' Sf21', 'HeLa', ' Bovine']",,all,11
+246,2015,on,,on,,['registration'],['OASIS'],,none,4
+247,2016,on,,on,,['image guidance'],['custom'],withpub,,3
+248,2017,on,,on,,['reconstruction'],['custom'],no,,4
+249,2018,on,,on,on,['segmentation'],['SCD RBC'],,all,2
+299,2018,on,on,,,['classification'],['custom'],no,,1
+300,2014,,,on,,['regression'],['custom'],no,,2
+301,2015,,,on,,['segmentation'],['ISBI 2013 Prostate Structures'],,all,18
+302,2016,,,,,['clustering'],"['custom', 'COPDGene', 'LTRC']",no,footnote,10
+303,2017,,,on,,['atlas building'],['custom'],promise,,6
+304,2018,on,on,,on,['segmentation'],"['ISIC2007', ' PH2']",,all,3
+305,2014,on,on,,,['denoising'],['custom'],no,,9
+306,2015,on,,on,,['object detection'],['custom'],no,,3
+307,2016,on,,on,on,['segmentation'],['VISCERAL'],,all,27
+308,2017,,on,,on,['classification'],['INbreast'],,all,67
+309,2018,on,on,,on,['segmentation'],"['custom', 'ACDC Challenge']",no,footnote,7
+310,2014,on,,on,,['segmentation'],['custom'],no,,9
+311,2015,,,,,[],[],,,4
+312,2016,,,,,[],[],,,9
+313,2017,,,,,[],[],,,8
+314,2018,,,,,[],[],,,0
+315,2014,,,,,[],[],,,20
+316,2015,,,,,[],[],,,
+317,2016,,,,,[],[],,,
+318,2017,,,,,[],[],,,11
+319,2018,,,,,[],[],,,
+320,2014,on,,on,,['segmentation'],['BraTS13'],,all,61
+321,2015,on,,on,,['segmentation'],"['custom', 'TCGA', 'HeLa']",,some,71
+322,2016,,,,,[],[],,,
+323,2017,on,,,,"['segmentation', 'classification']",['custom'],no,,5
+324,2018,on,on,,,['segmentation'],['custom'],no,,4
+325,2014,on,,,,['classification'],['ABIDE'],,all,28
+326,2015,on,,on,,['regression'],['custom simulated'],no,,2
+327,2016,,,,,[],[],,,1
+328,2017,on,,,,['regression'],['custom'],no,,0
+329,2018,,,,,[],[],,,
+330,2014,on,,,,[],[],,,14
+331,2015,,,,,[],[],,,2
+332,2016,,,,,[],[],,,9
+333,2017,,,,,[],[],,,
+334,2018,on,on,,on,['segmentation'],['custom simulated'],withpub,,6
+335,2014,,,,,[],[],,,
+336,2015,,,,,[],[],,,
+337,2016,,,,,[],[],,,
+338,2017,,,,,['classification'],"['custom', 'custom simulated']",no,,0
+339,2018,,,,,[],[],,,1
+340,2014,on,,on,,['imputation'],['ADNI'],,all,181
+341,2015,,,,,[],[],,,
+342,2016,on,on,,,['registration'],['ALBERTs'],,all,74
+343,2017,on,,on,,['classification'],['MESA COPD'],,all,5
+344,2018,on,,on,,['parcellation'],['custom'],no,,2
+345,2014,on,,on,,['classification'],['ILD-Depeursinge'],,all,6
+346,2015,on,,on,,['regression'],['custom'],no,,1
+347,2016,,,,,['segmentation'],['custom'],no,,3
+348,2017,on,,,,['progression prediction'],['custom'],no,,6
+349,2018,,,,,[],[],,,
+350,2014,on,,,,['object detection'],['custom'],no,,13
+351,2015,,,,,[],[],,,
+352,2016,on,,on,,['registration'],['custom simulated'],no,,5
+353,2017,,,on,,['registration'],['custom'],no,,12
+354,2018,on,on,,,['mhealth intervention'],['HeartSteps'],,none,9
+355,2014,on,,on,,['classification'],"['ICPR12', 'IRMA']",,footnote,9
+356,2015,on,,on,,"['segmentation', 'tracking']",['custom'],no,,9
+357,2016,on,on,,,['segmentation'],"['custom', 'OASIS']",no,all,79
+358,2017,on,,on,,['object detection'],['Microsoft SpineCT'],,all,12
+359,2018,,,,,[],[],,,1
+360,2014,on,on,,,['segmentation'],['custom'],no,,18
+361,2015,on,,,,['classification'],['custom'],no,,3
+362,2016,on,,on,,['registration'],"['custom', 'Multi-Atlas Labeling Challenge 2012']",,footnote,1
+363,2017,on,,,,['registration'],"['BraTS15', ' LPBA40']",,all,3
+364,2018,on,,,,['classification'],"['custom', 'dual-lighting hemolysis']",no,all,0
+365,2014,on,,on,,['classification'],['PNC'],,all,7
+366,2015,on,,on,,"['segmentation', 'interactive']",['custom'],no,,43
+367,2016,,,on,,['plane detection'],['custom'],no,,24
+368,2017,on,on,,,['segmentation'],['custom'],no,,4
+369,2018,on,,on,,['captioning'],['IU Chest X-Ray'],,all,5
+370,2014,on,,on,,['segmentation'],['custom'],no,,13
+371,2015,,,,,[],[],,,
+372,2016,on,,on,,['parcellation'],['HCP'],,all,2
+373,2017,,,,,[],[],,,1
+374,2018,on,,on,,['segmentation'],['custom'],no,,1
+375,2014,on,,on,,['regression'],"['custom simulated', 'Vilmann Rat Data']",no,all,13
+376,2015,,,,,[],[],,,18
+377,2016,on,on,,,['parcellation'],['HCP'],,all,5
+378,2017,,,,,[],[],,,1
+379,2018,,,,,[],[],,,2
+380,2014,,,,,[],[],,,
+381,2015,on,,,,['activity recognition'],['custom'],no,,7
+382,2016,,,,,[],[],,,
+383,2017,,,,,[],[],,,
+384,2018,on,on,,,['classification'],['Carolina Breast Cancer Study'],,all,4
+385,2014,,,,,[],[],,,
+386,2015,on,,on,,['classification'],['UCSB Breast Cancer'],,all,13
+387,2016,on,,on,,['object detection'],['custom'],no,,1
+388,2017,,,,,[],[],,,
+389,2018,on,on,,on,"['segmentation', 'object detection']","['DRIVE', 'AMIDA13', ' ISBI EM Segmentation']",,all,20
+390,2014,on,,on,,['classification'],['custom'],no,,23
+391,2015,on,,on,,['object detection'],['SpineWeb'],,footnote,24
+392,2016,on,,on,,['segmentation'],['custom'],no,,10
+393,2017,,on,,,['segmentation'],['custom'],no,,50
+394,2018,,on,,,['segmentation'],['ISBI 2017 Skin Segmentation'],,all,9
+395,2014,,,,,[],[],,,
+396,2015,,,on,,['Keypoint Localization'],['custom'],no,,48
+397,2016,,,,,[],[],,,
+398,2017,,,,,[],[],,,
