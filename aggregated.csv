@@ -249,6 +249,55 @@ ind,year,datause,preprint,personal,code,keywords,whichdata,didpublish,didcite,ci
 247,2016,on,,on,,['image guidance'],['custom'],withpub,,3
 248,2017,on,,on,,['reconstruction'],['custom'],no,,4
 249,2018,on,,on,on,['segmentation'],['SCD RBC'],,all,2
+250,2014,on,,on,,['registration'],['custom'],no,,9
+251,2015,on,,on,,['diffusion'],['DSI'],,footnote,13
+252,2016,on,,on,,['connectivity'],['HCP'],no,footnote,2
+253,2017,on,,on,,['statistical modelling'],['custom simulated'],no,,5
+254,2018,on,,on,,['segmentation'],['custom'],no,,0
+255,2014,on,,on,on,['atlas building'],['custom'],no,,21
+256,2015,on,,on,,['reconstruction'],['custom'],no,,23
+257,2016,on,,on,,['diffusion'],['custom'],no,,2
+258,2017,on,,on,,['diffusion'],"['HCP', 'cli-dsi']",no,none,2
+259,2018,on,,on,,['image guidance'],['custom'],no,,2
+260,2014,on,,on,,['segmentation'],['custom'],no,,8
+261,2015,on,,on,,[],['PPMI'],no,footnote,2
+262,2016,on,,on,,['classification'],['MESA'],,all,2
+263,2017,on,on,,,['segmentation'],['custom'],no,,6
+264,2018,on,,on,,['segmentation'],['custom'],no,,1
+265,2014,on,,on,,['classification'],['ADNI'],,footnote,2
+266,2015,on,,on,,['pose estimation'],['STACOM 2011'],,all,5
+267,2016,on,,on,,['connectivity'],['Nathan Kline Institute-Rockland'],,all,2
+268,2017,on,,on,,['classification'],['custom'],no,,5
+269,2018,on,,on,on,['registration'],"['DIRLAB', ' CREATIS']",,all,1
+270,2014,on,,on,on,['object detection'],['RMIT'],,all,45
+271,2015,on,,on,,['segmentation'],['custom'],no,,0
+272,2016,on,,on,,['classification'],['custom'],no,,0
+273,2017,on,,on,,['segmentation'],['custom'],no,,7
+274,2018,on,,on,,['registration'],['custom'],promise,,3
+275,2014,on,,on,,['pose estimation'],['custom'],no,,3
+276,2015,on,,on,,['image guidance'],['custom simulated'],no,,5
+277,2016,on,,on,,['classification'],['ADNI'],,none,24
+278,2017,on,,on,,['statistical modelling'],['Kyoto Collection of Human Embryos'],,all,3
+279,2018,on,,on,,['classification'],['Dermofit Image Library'],no,all,5
+280,2014,on,,on,,['classification'],['custom'],no,,24
+281,2015,on,,on,,['segmentation'],['custom'],no,,2
+282,2016,on,,on,,['classification'],['custom'],no,,4
+283,2017,on,,on,,['classification'],['custom'],no,,6
+284,2018,on,,on,,['statistical modelling'],['ADNI'],,invalid,0
+285,2014,on,,on,,['connectivity'],['BeijingEOEC'],,footnote,0
+286,2015,on,on,,,['classification'],"['MUSK', ' BREAST', ' MESSIDOR']",,some,14
+287,2016,on,on,,,['reconstruction'],['LIDC'],,all,24
+288,2017,on,,,,['statistical modelling'],['custom'],no,,2
+289,2018,on,,,,['connectivity'],"['HCP', 'CNP']",,all,0
+290,2014,on,,on,,['segmentation'],['ISBI EM Segmentation'],,all,22
+291,2015,on,,on,,['connectivity'],['CoCoMac'],,all,3
+292,2016,on,on,,,['segmentation'],"['BraTS17', 'MSGC']",,all,52
+293,2017,on,on,,,['segmentation'],['STACOM 2013'],,all,32
+294,2018,on,,on,,['atlas building'],"['Digital Hand Atlas', 'Allen Atlas']",,all,0
+295,2014,on,,on,,['registration'],['ANDI'],,none,20
+296,2015,,,,,[],[],,,6
+297,2016,on,on,,,['image guidance'],['custom'],no,,4
+298,2017,on,,on,,['registration'],['custom'],no,,1
 299,2018,on,on,,,['classification'],['custom'],no,,1
 300,2014,,,on,,['regression'],['custom'],no,,2
 301,2015,,,on,,['segmentation'],['ISBI 2013 Prostate Structures'],,all,18
@@ -349,3 +398,102 @@ ind,year,datause,preprint,personal,code,keywords,whichdata,didpublish,didcite,ci
 396,2015,,,on,,['Keypoint Localization'],['custom'],no,,48
 397,2016,,,,,[],[],,,
 398,2017,,,,,[],[],,,
+399,2018,on,,on,,['reconstruction'],['stain separation benchmark'],,all,1
+400,2014,on,,on,,['atlas building'],['HCP'],no,all,4
+401,2015,on,,on,,['imputation'],['ADNI'],,footnote,8
+402,2016,on,,on,,['segmentation'],['custom'],no,,3
+403,2017,on,,on,,['segmentation'],['NIH'],,all,18
+404,2018,on,,on,,['image guidance'],['custom'],no,,2
+405,2014,on,,on,,['image guidance'],['custom'],no,,7
+406,2015,on,,on,,['registration'],['custom'],no,,12
+407,2016,on,,on,,['registration'],['custom'],no,,4
+408,2017,on,on,,,['object detection'],['Kaggle Clinical'],no,none,16
+409,2018,on,,on,,['classification'],['custom'],no,,2
+410,2014,on,,on,,['segmentation'],['MICCAI SATA 2013'],,all,16
+411,2015,on,,on,,['object detection'],"['custom', 'ICPR 2010']",withpub,all,41
+412,2016,on,,on,,['segmentation'],['custom'],no,,29
+413,2017,on,,on,,['segmentation'],['custom'],no,,4
+414,2018,on,,on,,['classification'],['custom'],no,,1
+415,2014,,,,,[],[],,,6
+416,2015,on,,on,,['image guidance'],['custom'],no,,1
+417,2016,on,,on,,['classification'],['custom'],no,,2
+418,2017,on,,on,,['image guidance'],"['custom', 'neurIST']",,all,0
+419,2018,on,,on,,['reconstruction'],['custom'],no,,0
+420,2014,on,,on,,['segmentation'],['custom'],no,,58
+421,2015,on,,on,,['classification'],['ADNI'],,all,4
+422,2016,on,,on,,['pose estimation'],['custom'],promise,,19
+423,2017,on,,on,,['classification'],['custom'],no,,25
+424,2018,on,,on,,['classification'],['DeepLegion'],,all,11
+425,2014,on,,on,,['segmentation'],['custom'],no,,12
+426,2015,on,,on,,['reconstruction'],['custom simulated'],no,,8
+427,2016,on,,on,,['statistical modelling'],['custom'],no,,1
+428,2017,on,on,,on,['segmentation'],"['custom', 'LTRC', ' NIH', ' UHG']",promise,all,43
+429,2018,on,on,on,,['segmentation'],['DeepLegion'],,all,12
+430,2014,on,,on,,['classification'],['ADNI'],,footnote,3
+431,2015,on,,on,,['imputation'],['custom'],no,,2
+432,2016,on,,,,['reconstruction'],"['ISBI 2013 Prostate Structures', 'ISBI 2013 HARDI']",,none,10
+433,2017,on,,on,,['image guidance'],['custom'],no,,3
+434,2018,on,on,,,['connectivity'],['custom'],withpub,all,6
+435,2014,on,on,,,['interactive'],"['ImageCLEF 2013', ' IMRA', ' TCIA', '  SIMBA CT', ' JSRT']",,all,12
+436,2015,on,,on,,['pose estimation'],['custom'],no,,1
+437,2016,on,,on,,['segmentation'],"['custom', 'Study of Health in Pomerania']",,all,6
+438,2017,on,,on,,['registration'],"['custom', 'custom simulated']",no,,1
+439,2018,,,,,[],[],,,2
+440,2014,on,,on,,['image guidance'],['custom'],no,,5
+441,2015,on,,on,,['registration'],['custom'],no,,10
+443,2017,on,,on,,['cbir'],['CXR'],,all,9
+444,2018,on,,on,,['density estimation'],['custom'],no,,0
+445,2014,on,,on,,['segmentation'],['custom'],no,,7
+446,2015,on,,on,,['classification'],['MITOS'],,all,19
+447,2016,on,,on,,['segmentation'],['HNC 2015'],,all,26
+448,2017,on,,on,,['segmentation'],['custom'],no,,2
+449,2018,on,,on,,['denoising'],['custom simulated'],no,,0
+450,2014,on,,on,,['reconstruction'],['custom'],no,,7
+451,2015,on,,on,,['classification'],['custom'],no,,22
+452,2016,on,,on,,['classification'],['custom'],no,,6
+453,2017,,,,,[],[],,,5
+454,2018,on,,on,,['classification'],['custom'],no,,0
+455,2014,on,,on,on,['segmentation'],['custom'],withpub,,20
+456,2015,,,,,[],[],,,4
+457,2016,on,,on,,['reconstruction'],['custom'],no,,1
+458,2017,on,,on,,['reconstruction'],['custom simulated'],no,,1
+459,2018,on,,on,,['classification'],['NIH Chest X-Ray'],no,,0
+460,2014,on,,on,,['classification'],['custom'],no,,14
+461,2015,on,,on,,['classification'],['custom'],no,,28
+462,2016,on,,on,,['segmentation'],['custom'],no,,23
+463,2017,on,,on,,['object detection'],['custom'],no,,2
+464,2018,on,,on,,['segmentation'],['custom'],no,,1
+465,2014,on,,on,,['segmentation'],['custom'],no,,20
+466,2015,on,,on,,['segmentation'],['custom'],no,,3
+467,2016,on,,on,,['classification'],['ADNI'],no,all,3
+468,2017,on,,on,,['clustering'],['custom'],no,,1
+469,2018,on,,on,,['simulation'],"['custom', 'custom simulated']",no,,0
+470,2014,on,,on,,['diffusion'],['custom'],no,,8
+471,2015,on,,on,,['diffusion'],['custom'],no,,1
+472,2016,on,,on,,['reconstruction'],['custom'],no,,52
+473,2017,on,,on,,['statistical modelling'],['custom'],no,,2
+474,2018,on,,on,,['connectivity'],['custom'],no,,0
+475,2014,on,,on,,['simulation'],['custom'],no,,3
+476,2015,on,,on,,['outlier detection'],['custom'],no,,3
+477,2016,on,,on,,['classification'],"['custom', 'Genodisc']",no,all,31
+478,2017,on,,on,,['classification'],['ProstateX'],,all,6
+479,2018,on,,on,,['segmentation'],['ISBI'],,all,5
+480,2014,on,,on,,['segmentation'],['custom'],no,,20
+481,2015,on,,on,on,['segmentation'],['custom'],withpub,,236
+482,2016,on,,on,,['connectivity'],"['ADNI', 'ADHD-200']",,footnote,5
+483,2017,on,,on,,['reconstruction'],['IVAC'],no,all,0
+484,2018,on,on,,,['segmentation'],['custom'],no,,18
+486,2015,on,,on,,['segmentation'],['custom'],no,,9
+487,2016,on,,on,,['segmentation'],['custom'],no,,4
+488,2017,on,on,,,['denoising'],['custom'],no,,7
+489,2018,on,on,,on,['segmentation'],['custom'],no,,5
+490,2014,on,on,,,"['segmentation', 'reconstruction']",['brainweb'],,footnote,15
+491,2015,on,on,on,,['classification'],['custom'],no,,4
+492,2016,on,,on,,['atlas building'],['custom'],no,,4
+493,2017,on,,on,,['segmentation'],['custom'],no,,1
+494,2018,on,on,,,['connectivity'],['ADNI'],,footnote,0
+495,2014,on,,on,,['connectivity'],['custom'],no,,7
+496,2015,on,,on,,['segmentation'],['custom'],no,,3
+497,2016,,,,,[],[],,,17
+498,2017,on,,on,,['classification'],"['ABIDE', ' ADHD200']",,all,4
+499,2018,on,on,,,['segmentation'],['custom'],no,,7

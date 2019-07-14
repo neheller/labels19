@@ -4235,6 +4235,840 @@
     "citations": "2"
   },
   {
+    "ind": "250",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "registration"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "9"
+  },
+  {
+    "ind": "251",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "diffusion"
+    ],
+    "whichdata": [
+      "DSI"
+    ],
+    "didpublish": "",
+    "didcite": "footnote",
+    "citations": "13"
+  },
+  {
+    "ind": "252",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "connectivity"
+    ],
+    "whichdata": [
+      "HCP"
+    ],
+    "didpublish": "no",
+    "didcite": "footnote",
+    "citations": "2"
+  },
+  {
+    "ind": "253",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "statistical modelling"
+    ],
+    "whichdata": [
+      "custom simulated"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "5"
+  },
+  {
+    "ind": "254",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "0"
+  },
+  {
+    "ind": "255",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "on",
+    "keywords": [
+      "atlas building"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "21"
+  },
+  {
+    "ind": "256",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "23"
+  },
+  {
+    "ind": "257",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "diffusion"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "258",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "diffusion"
+    ],
+    "whichdata": [
+      "HCP",
+      "cli-dsi"
+    ],
+    "didpublish": "no",
+    "didcite": "none",
+    "citations": "2"
+  },
+  {
+    "ind": "259",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "image guidance"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "260",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "8"
+  },
+  {
+    "ind": "261",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [],
+    "whichdata": [
+      "PPMI"
+    ],
+    "didpublish": "no",
+    "didcite": "footnote",
+    "citations": "2"
+  },
+  {
+    "ind": "262",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "MESA"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "2"
+  },
+  {
+    "ind": "263",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "6"
+  },
+  {
+    "ind": "264",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "265",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "ADNI"
+    ],
+    "didpublish": "",
+    "didcite": "footnote",
+    "citations": "2"
+  },
+  {
+    "ind": "266",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "pose estimation"
+    ],
+    "whichdata": [
+      "STACOM 2011"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "5"
+  },
+  {
+    "ind": "267",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "connectivity"
+    ],
+    "whichdata": [
+      "Nathan Kline Institute-Rockland"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "2"
+  },
+  {
+    "ind": "268",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "5"
+  },
+  {
+    "ind": "269",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "on",
+    "keywords": [
+      "registration"
+    ],
+    "whichdata": [
+      "DIRLAB",
+      " CREATIS"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "1"
+  },
+  {
+    "ind": "270",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "on",
+    "keywords": [
+      "object detection"
+    ],
+    "whichdata": [
+      "RMIT"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "45"
+  },
+  {
+    "ind": "271",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "0"
+  },
+  {
+    "ind": "272",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "0"
+  },
+  {
+    "ind": "273",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "7"
+  },
+  {
+    "ind": "274",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "registration"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "promise",
+    "didcite": "",
+    "citations": "3"
+  },
+  {
+    "ind": "275",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "pose estimation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "3"
+  },
+  {
+    "ind": "276",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "image guidance"
+    ],
+    "whichdata": [
+      "custom simulated"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "5"
+  },
+  {
+    "ind": "277",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "ADNI"
+    ],
+    "didpublish": "",
+    "didcite": "none",
+    "citations": "24"
+  },
+  {
+    "ind": "278",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "statistical modelling"
+    ],
+    "whichdata": [
+      "Kyoto Collection of Human Embryos"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "3"
+  },
+  {
+    "ind": "279",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "Dermofit Image Library"
+    ],
+    "didpublish": "no",
+    "didcite": "all",
+    "citations": "5"
+  },
+  {
+    "ind": "280",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "24"
+  },
+  {
+    "ind": "281",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "282",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "4"
+  },
+  {
+    "ind": "283",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "6"
+  },
+  {
+    "ind": "284",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "statistical modelling"
+    ],
+    "whichdata": [
+      "ADNI"
+    ],
+    "didpublish": "",
+    "didcite": "invalid",
+    "citations": "0"
+  },
+  {
+    "ind": "285",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "connectivity"
+    ],
+    "whichdata": [
+      "BeijingEOEC"
+    ],
+    "didpublish": "",
+    "didcite": "footnote",
+    "citations": "0"
+  },
+  {
+    "ind": "286",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "MUSK",
+      " BREAST",
+      " MESSIDOR"
+    ],
+    "didpublish": "",
+    "didcite": "some",
+    "citations": "14"
+  },
+  {
+    "ind": "287",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "LIDC"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "24"
+  },
+  {
+    "ind": "288",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "statistical modelling"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "289",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "connectivity"
+    ],
+    "whichdata": [
+      "HCP",
+      "CNP"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "0"
+  },
+  {
+    "ind": "290",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "ISBI EM Segmentation"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "22"
+  },
+  {
+    "ind": "291",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "connectivity"
+    ],
+    "whichdata": [
+      "CoCoMac"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "3"
+  },
+  {
+    "ind": "292",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "BraTS17",
+      "MSGC"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "52"
+  },
+  {
+    "ind": "293",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "STACOM 2013"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "32"
+  },
+  {
+    "ind": "294",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "atlas building"
+    ],
+    "whichdata": [
+      "Digital Hand Atlas",
+      "Allen Atlas"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "0"
+  },
+  {
+    "ind": "295",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "registration"
+    ],
+    "whichdata": [
+      "ANDI"
+    ],
+    "didpublish": "",
+    "didcite": "none",
+    "citations": "20"
+  },
+  {
+    "ind": "296",
+    "year": "2015",
+    "datause": "",
+    "preprint": "",
+    "personal": "",
+    "code": "",
+    "keywords": [],
+    "whichdata": [],
+    "didpublish": "",
+    "didcite": "",
+    "citations": "6"
+  },
+  {
+    "ind": "297",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "image guidance"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "4"
+  },
+  {
+    "ind": "298",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "registration"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
     "ind": "299",
     "year": "2018",
     "datause": "on",
@@ -5804,5 +6638,1685 @@
     "didpublish": "",
     "didcite": "",
     "citations": ""
+  },
+  {
+    "ind": "399",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "stain separation benchmark"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "1"
+  },
+  {
+    "ind": "400",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "atlas building"
+    ],
+    "whichdata": [
+      "HCP"
+    ],
+    "didpublish": "no",
+    "didcite": "all",
+    "citations": "4"
+  },
+  {
+    "ind": "401",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "imputation"
+    ],
+    "whichdata": [
+      "ADNI"
+    ],
+    "didpublish": "",
+    "didcite": "footnote",
+    "citations": "8"
+  },
+  {
+    "ind": "402",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "3"
+  },
+  {
+    "ind": "403",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "NIH"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "18"
+  },
+  {
+    "ind": "404",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "image guidance"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "405",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "image guidance"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "7"
+  },
+  {
+    "ind": "406",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "registration"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "12"
+  },
+  {
+    "ind": "407",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "registration"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "4"
+  },
+  {
+    "ind": "408",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "object detection"
+    ],
+    "whichdata": [
+      "Kaggle Clinical"
+    ],
+    "didpublish": "no",
+    "didcite": "none",
+    "citations": "16"
+  },
+  {
+    "ind": "409",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "410",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "MICCAI SATA 2013"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "16"
+  },
+  {
+    "ind": "411",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "object detection"
+    ],
+    "whichdata": [
+      "custom",
+      "ICPR 2010"
+    ],
+    "didpublish": "withpub",
+    "didcite": "all",
+    "citations": "41"
+  },
+  {
+    "ind": "412",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "29"
+  },
+  {
+    "ind": "413",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "4"
+  },
+  {
+    "ind": "414",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "415",
+    "year": "2014",
+    "datause": "",
+    "preprint": "",
+    "personal": "",
+    "code": "",
+    "keywords": [],
+    "whichdata": [],
+    "didpublish": "",
+    "didcite": "",
+    "citations": "6"
+  },
+  {
+    "ind": "416",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "image guidance"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "417",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "418",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "image guidance"
+    ],
+    "whichdata": [
+      "custom",
+      "neurIST"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "0"
+  },
+  {
+    "ind": "419",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "0"
+  },
+  {
+    "ind": "420",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "58"
+  },
+  {
+    "ind": "421",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "ADNI"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "4"
+  },
+  {
+    "ind": "422",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "pose estimation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "promise",
+    "didcite": "",
+    "citations": "19"
+  },
+  {
+    "ind": "423",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "25"
+  },
+  {
+    "ind": "424",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "DeepLegion"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "11"
+  },
+  {
+    "ind": "425",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "12"
+  },
+  {
+    "ind": "426",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "custom simulated"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "8"
+  },
+  {
+    "ind": "427",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "statistical modelling"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "428",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "on",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom",
+      "LTRC",
+      " NIH",
+      " UHG"
+    ],
+    "didpublish": "promise",
+    "didcite": "all",
+    "citations": "43"
+  },
+  {
+    "ind": "429",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "DeepLegion"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "12"
+  },
+  {
+    "ind": "430",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "ADNI"
+    ],
+    "didpublish": "",
+    "didcite": "footnote",
+    "citations": "3"
+  },
+  {
+    "ind": "431",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "imputation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "432",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "ISBI 2013 Prostate Structures",
+      "ISBI 2013 HARDI"
+    ],
+    "didpublish": "",
+    "didcite": "none",
+    "citations": "10"
+  },
+  {
+    "ind": "433",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "image guidance"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "3"
+  },
+  {
+    "ind": "434",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "connectivity"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "withpub",
+    "didcite": "all",
+    "citations": "6"
+  },
+  {
+    "ind": "435",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "interactive"
+    ],
+    "whichdata": [
+      "ImageCLEF 2013",
+      " IMRA",
+      " TCIA",
+      "  SIMBA CT",
+      " JSRT"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "12"
+  },
+  {
+    "ind": "436",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "pose estimation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "437",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom",
+      "Study of Health in Pomerania"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "6"
+  },
+  {
+    "ind": "438",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "registration"
+    ],
+    "whichdata": [
+      "custom",
+      "custom simulated"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "439",
+    "year": "2018",
+    "datause": "",
+    "preprint": "",
+    "personal": "",
+    "code": "",
+    "keywords": [],
+    "whichdata": [],
+    "didpublish": "",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "440",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "image guidance"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "5"
+  },
+  {
+    "ind": "441",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "registration"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "10"
+  },
+  {
+    "ind": "443",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "cbir"
+    ],
+    "whichdata": [
+      "CXR"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "9"
+  },
+  {
+    "ind": "444",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "density estimation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "0"
+  },
+  {
+    "ind": "445",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "7"
+  },
+  {
+    "ind": "446",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "MITOS"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "19"
+  },
+  {
+    "ind": "447",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "HNC 2015"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "26"
+  },
+  {
+    "ind": "448",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "449",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "denoising"
+    ],
+    "whichdata": [
+      "custom simulated"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "0"
+  },
+  {
+    "ind": "450",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "7"
+  },
+  {
+    "ind": "451",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "22"
+  },
+  {
+    "ind": "452",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "6"
+  },
+  {
+    "ind": "453",
+    "year": "2017",
+    "datause": "",
+    "preprint": "",
+    "personal": "",
+    "code": "",
+    "keywords": [],
+    "whichdata": [],
+    "didpublish": "",
+    "didcite": "",
+    "citations": "5"
+  },
+  {
+    "ind": "454",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "0"
+  },
+  {
+    "ind": "455",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "on",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "withpub",
+    "didcite": "",
+    "citations": "20"
+  },
+  {
+    "ind": "456",
+    "year": "2015",
+    "datause": "",
+    "preprint": "",
+    "personal": "",
+    "code": "",
+    "keywords": [],
+    "whichdata": [],
+    "didpublish": "",
+    "didcite": "",
+    "citations": "4"
+  },
+  {
+    "ind": "457",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "458",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "custom simulated"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "459",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "NIH Chest X-Ray"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "0"
+  },
+  {
+    "ind": "460",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "14"
+  },
+  {
+    "ind": "461",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "28"
+  },
+  {
+    "ind": "462",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "23"
+  },
+  {
+    "ind": "463",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "object detection"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "464",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "465",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "20"
+  },
+  {
+    "ind": "466",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "3"
+  },
+  {
+    "ind": "467",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "ADNI"
+    ],
+    "didpublish": "no",
+    "didcite": "all",
+    "citations": "3"
+  },
+  {
+    "ind": "468",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "clustering"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "469",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "simulation"
+    ],
+    "whichdata": [
+      "custom",
+      "custom simulated"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "0"
+  },
+  {
+    "ind": "470",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "diffusion"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "8"
+  },
+  {
+    "ind": "471",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "diffusion"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "472",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "52"
+  },
+  {
+    "ind": "473",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "statistical modelling"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "2"
+  },
+  {
+    "ind": "474",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "connectivity"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "0"
+  },
+  {
+    "ind": "475",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "simulation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "3"
+  },
+  {
+    "ind": "476",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "outlier detection"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "3"
+  },
+  {
+    "ind": "477",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom",
+      "Genodisc"
+    ],
+    "didpublish": "no",
+    "didcite": "all",
+    "citations": "31"
+  },
+  {
+    "ind": "478",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "ProstateX"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "6"
+  },
+  {
+    "ind": "479",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "ISBI"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "5"
+  },
+  {
+    "ind": "480",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "20"
+  },
+  {
+    "ind": "481",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "on",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "withpub",
+    "didcite": "",
+    "citations": "236"
+  },
+  {
+    "ind": "482",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "connectivity"
+    ],
+    "whichdata": [
+      "ADNI",
+      "ADHD-200"
+    ],
+    "didpublish": "",
+    "didcite": "footnote",
+    "citations": "5"
+  },
+  {
+    "ind": "483",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "reconstruction"
+    ],
+    "whichdata": [
+      "IVAC"
+    ],
+    "didpublish": "no",
+    "didcite": "all",
+    "citations": "0"
+  },
+  {
+    "ind": "484",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "18"
+  },
+  {
+    "ind": "486",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "9"
+  },
+  {
+    "ind": "487",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "4"
+  },
+  {
+    "ind": "488",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "denoising"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "7"
+  },
+  {
+    "ind": "489",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "on",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "5"
+  },
+  {
+    "ind": "490",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "segmentation",
+      "reconstruction"
+    ],
+    "whichdata": [
+      "brainweb"
+    ],
+    "didpublish": "",
+    "didcite": "footnote",
+    "citations": "15"
+  },
+  {
+    "ind": "491",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "4"
+  },
+  {
+    "ind": "492",
+    "year": "2016",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "atlas building"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "4"
+  },
+  {
+    "ind": "493",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "1"
+  },
+  {
+    "ind": "494",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "connectivity"
+    ],
+    "whichdata": [
+      "ADNI"
+    ],
+    "didpublish": "",
+    "didcite": "footnote",
+    "citations": "0"
+  },
+  {
+    "ind": "495",
+    "year": "2014",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "connectivity"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "7"
+  },
+  {
+    "ind": "496",
+    "year": "2015",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "3"
+  },
+  {
+    "ind": "497",
+    "year": "2016",
+    "datause": "",
+    "preprint": "",
+    "personal": "",
+    "code": "",
+    "keywords": [],
+    "whichdata": [],
+    "didpublish": "",
+    "didcite": "",
+    "citations": "17"
+  },
+  {
+    "ind": "498",
+    "year": "2017",
+    "datause": "on",
+    "preprint": "",
+    "personal": "on",
+    "code": "",
+    "keywords": [
+      "classification"
+    ],
+    "whichdata": [
+      "ABIDE",
+      " ADHD200"
+    ],
+    "didpublish": "",
+    "didcite": "all",
+    "citations": "4"
+  },
+  {
+    "ind": "499",
+    "year": "2018",
+    "datause": "on",
+    "preprint": "on",
+    "personal": "",
+    "code": "",
+    "keywords": [
+      "segmentation"
+    ],
+    "whichdata": [
+      "custom"
+    ],
+    "didpublish": "no",
+    "didcite": "",
+    "citations": "7"
   }
 ]
