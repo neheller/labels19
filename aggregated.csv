@@ -497,3 +497,94 @@ ind,year,datause,preprint,personal,code,keywords,whichdata,didpublish,didcite,ci
 497,2016,,,,,[],[],,,17
 498,2017,on,,on,,['classification'],"['ABIDE', ' ADHD200']",,all,4
 499,2018,on,on,,,['segmentation'],['custom'],no,,7
+500,2014,on,,on,,['classification'],['custom'],no,,13
+501,2015,on,,,,['segmentation'],['custom'],no,,6
+502,2016,on,,on,,['connectivity'],['ABIDE'],,none,14
+503,2017,on,,on,,['classification'],['custom'],no,,10
+504,2018,on,,on,,['classification'],['custom'],no,,2
+505,2014,on,,on,,['connectivity'],['ADNI'],,footnote,21
+506,2015,on,,on,,['segmentation'],['custom'],no,,0
+507,2016,,,,,[],[],,,4
+508,2017,on,,,,['statistical modelling'],['custom simulated'],no,,0
+509,2018,on,on,,,['segmentation'],['custom'],no,,2
+510,2014,on,,,,['registration'],['custom'],no,,8
+511,2015,on,,,,['image guidance'],['custom'],no,,10
+512,2016,on,on,,,['pose estimation'],['custom'],withpub,,14
+513,2017,on,,on,,['classification'],['TCIA'],,all,8
+514,2018,on,,,,['statistical modelling'],['custom'],no,,0
+515,2014,on,,on,,['segmentation'],['custom'],no,,13
+516,2015,on,,on,,['reconstruction'],['Stanford Voldata'],,footnote,4
+517,2016,on,,on,,['classification'],['ADNI'],,all,5
+518,2017,on,,on,,['diffusion'],['Kirby21'],,all,3
+519,2018,on,on,,,['image guidance'],['ADNI'],,all,3
+520,2014,on,,on,,['segmentation'],['custom'],no,,6
+521,2015,on,,on,,['reconstruction'],['custom'],no,,7
+522,2016,on,,on,,['segmentation'],['MICCAI 2015 endoscopic vision challenge'],,none,16
+523,2017,on,,,,['connectivity'],['custom'],no,,0
+524,2018,on,on,,on,['classification'],['JIGSAWS'],,all,9
+525,2014,on,,on,,['segmentation'],['custom'],no,,10
+526,2015,on,,on,,['segmentation'],['custom'],no,,6
+527,2016,on,,on,,['classification'],['NCI'],,all,43
+528,2017,on,on,,,['statistical modelling'],['custom'],no,,8
+529,2018,on,on,,,['simulation'],['LIDC-IDRI'],,all,23
+530,2014,on,,,,['registration'],['custom'],no,,16
+531,2015,on,,on,,['regression'],['OASIS'],,all,21
+532,2016,on,,,,[],[],,,9
+533,2017,on,,on,on,['segmentation'],"['VISCERAL', ' MICCAI 2015']",,all,13
+534,2018,,,,,[],[],,,6
+535,2014,on,,on,,['classification'],['ISBI'],,all,11
+536,2015,,,,,[],[],,,8
+537,2016,on,,on,,['classification'],['custom'],no,,3
+538,2017,on,,on,,['registration'],['custom'],no,,2
+539,2018,on,,,,['reconstruction'],['custom'],no,,0
+540,2014,,,,,[],[],,,9
+541,2015,on,,,,['classification'],['custom'],no,,18
+542,2016,on,,,,['pose estimation'],['sznitr'],,all,9
+543,2017,on,on,,,['classification'],['custom'],no,,17
+544,2018,on,on,,,['classification'],['custom'],no,,0
+545,2014,on,,,,['classification'],['custom'],no,,12
+546,2015,on,,,,['classification'],"['custom', 'InBreast']",,all,5
+547,2016,on,,on,,['diffusion'],['custom'],no,,9
+548,2017,on,,,,['segmentation'],['custom'],no,,10
+549,2018,on,,on,,['classification'],['custom'],no,,0
+550,2014,on,,on,,['segmentation'],"[""BRATS'12""]",,none,28
+551,2015,on,,on,,['registration'],['HCP'],,none,5
+552,2016,on,,on,,['regression'],"['custom', 'DHAD']",,footnote,20
+553,2017,on,,,,['registration'],['custom'],no,,2
+554,2018,on,on,,,['classification'],['custom'],no,,0
+555,2014,on,,,on,['registration'],['MRBrainS'],,all,12
+556,2015,on,,,,['classification'],['BRATS2014'],,none,13
+557,2016,on,on,,,['classification'],"['KIT', ' Shenzen', ' MC']",,all,42
+558,2017,on,,,on,['classification'],"['custom', 'MA3RS']",no,all,0
+559,2018,on,,,,['segmentation'],['NIH Pancreas'],,all,0
+560,2014,on,,on,,['segmentation'],['custom'],no,,16
+561,2015,on,,on,,['atlas building'],['custom'],no,,2
+562,2016,on,,on,,['classification'],['ADNI'],,footnote,8
+563,2017,on,,on,,['classification'],['custom'],no,,9
+564,2018,on,on,,,['classification'],['Danish Lung Cancer Screening Trial'],,all,3
+565,2014,on,,on,,['segmentation'],"['custom simulated', 'DRIVE', ' STARE']",withpub,all,14
+566,2015,on,,on,,['classification'],['custom'],no,,2
+567,2016,on,,on,,['classification'],['custom'],no,,5
+568,2017,on,,on,,['statistical modelling'],['custom'],no,,10
+569,2018,on,,on,,['connectivity'],['ADNI'],no,none,2
+570,2014,,,,,[],[],,,0
+571,2015,on,,on,,['classification'],['OASIS'],,all,0
+572,2016,on,,on,,['statistical modelling'],['ADNI'],,all,7
+573,2017,on,,on,,['regression'],['OASIS'],,all,4
+574,2018,,,,,[],[],,,1
+575,2014,on,,on,,['biomarkers'],['custom'],no,,12
+576,2015,on,,,,['segmentation'],"['EMPIRE 10', ' OASIS']",,all,6
+577,2016,on,,on,,['object detection'],['custom'],no,,2
+578,2017,on,,on,,['segmentation'],['UK Biobank'],,none,34
+579,2018,on,on,,,['pose estimation'],['PoseNet'],,all,1
+580,2014,on,,on,,['pose estimation'],['custom'],no,,9
+581,2015,on,,on,,['classification'],['DLNV'],,all,10
+582,2016,on,,on,on,['classification'],['custom'],no,,0
+583,2017,on,on,,,['object detection'],"['EyePACS', ' MESSIDOR']",,all,27
+584,2018,on,on,,on,['classification'],['BWL'],,all,3
+585,2014,on,,on,,['classification'],['custom'],no,,2
+586,2015,on,,on,,['diffusion'],['custom'],no,,3
+587,2016,on,,,,['classification'],['custom'],no,,4
+588,2017,on,,on,,['statistical modelling'],['ADNI'],,all,3
+589,2018,on,,on,,['classification'],"['TCGA', ' CINJ']",,all,8
+590,2014,on,,,,['surgical planning'],['custom'],no,,11
